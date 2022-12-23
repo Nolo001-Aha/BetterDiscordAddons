@@ -32,7 +32,7 @@
 	--background:					url(https://cdn.discordapp.com/attachments/996822135756554303/1055095840739434588/picsart_nasty.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
-	--backgroundblur:				unset;
+	--backgroundblur:				30px;
 	
 	--popout:						var(--background);
 	--popoutposition:				var(--backgroundposition);
