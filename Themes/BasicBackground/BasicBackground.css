@@ -3,7 +3,7 @@
 
 :root {
 	--transparencycolor:			0,0,0;
-	--transparencyalpha:			0.15;
+	--transparencyalpha:			0.5;
 	--messagetransparency:			0.5;
 	--usechatbubbles: 				calc(var(--messagetransparency) / (var(--messagetransparency) + 0.00000000000000000000001));
 	--guildchanneltransparency:		0.15;
