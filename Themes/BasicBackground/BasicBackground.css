@@ -3,7 +3,7 @@
 
 :root {
 	--transparencycolor:			0,0,0;
-	--transparencyalpha:			0.25;
+	--transparencyalpha:			0.20;
 	--messagetransparency:			0.5;
 	--usechatbubbles: 				calc(var(--messagetransparency) / (var(--messagetransparency) + 0.00000000000000000000001));
 	--guildchanneltransparency:		0.15;
@@ -32,14 +32,14 @@
 	--background:					url(https://cdn.discordapp.com/attachments/996822135756554303/1055095840739434588/picsart_nasty.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
-	--backgroundblur:				8px;
+	--backgroundblur:				5px;
 	
 	--popout:						var(--background);
 	--popoutposition:				var(--backgroundposition);
 	--popoutsize:					var(--backgroundsize);
 	--popoutblur:					var(--backgroundblur);
 	
-	--backdrop:						rgba(0,0,0,0.3);
+	--backdrop:						rgba(0,0,0,0.24);
 	--backdropposition:				center;
 	--backdropsize:					cover;
 	--backdropblur:					unset;
@@ -77,10 +77,10 @@
 	--interactive-active: rgb(var(--textbrightest));
 	--interactive-muted: rgb(var(--textdarkest));
 	--logo-primary: rgb(var(--textbrightest));
-	--modal-background: rgba(var(--transparencycolor), .2);
-	--background-accent: rgba(var(--transparencycolor), .2);
-	--background-primary: rgba(var(--transparencycolor), .2);
-	--background-secondary: rgba(var(--transparencycolor), .2);
+	--modal-background: rgba(var(--transparencycolor), .16);
+	--background-accent: rgba(var(--transparencycolor), .16);
+	--background-primary: rgba(var(--transparencycolor), .16);
+	--background-secondary: rgba(var(--transparencycolor), .16);
 	--background-secondary-alt: rgba(var(--transparencycolor), .35);
 	--background-tertiary: rgba(var(--transparencycolor), .4);
 	--background-floating: rgba(var(--transparencycolor), .5);
