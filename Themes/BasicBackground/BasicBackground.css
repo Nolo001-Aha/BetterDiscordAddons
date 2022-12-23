@@ -77,10 +77,10 @@
 	--interactive-active: rgb(var(--textbrightest));
 	--interactive-muted: rgb(var(--textdarkest));
 	--logo-primary: rgb(var(--textbrightest));
-	--modal-background: rgba(var(--transparencycolor), .2);
-	--background-accent: rgba(var(--transparencycolor), .1);
-	--background-primary: rgba(var(--transparencycolor), .2);
-	--background-secondary: rgba(var(--transparencycolor), .3);
+	--modal-background: rgba(var(--transparencycolor), .4);
+	--background-accent: rgba(var(--transparencycolor), .4);
+	--background-primary: rgba(var(--transparencycolor), .4);
+	--background-secondary: rgba(var(--transparencycolor), .4);
 	--background-secondary-alt: rgba(var(--transparencycolor), .35);
 	--background-tertiary: rgba(var(--transparencycolor), .4);
 	--background-floating: rgba(var(--transparencycolor), .5);
