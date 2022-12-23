@@ -39,7 +39,7 @@
 	--popoutsize:					var(--backgroundsize);
 	--popoutblur:					var(--backgroundblur);
 	
-	--backdrop:						rgba(0,0,0,0.85);
+	--backdrop:						rgba(0,0,0,0.50);
 	--backdropposition:				center;
 	--backdropsize:					cover;
 	--backdropblur:					unset;
